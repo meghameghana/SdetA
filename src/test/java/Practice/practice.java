@@ -6,6 +6,7 @@ public class practice{
 		System.out.println("hello");
 		System.out.println("hello");
 		System.out.println("hello");
+		System.out.println("hello");
 	}
 		
 	}
