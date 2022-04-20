@@ -23,4 +23,6 @@ public class Serialization {
 		ObjectMapper obj = new ObjectMapper();
 		obj.writeValue(new File("./emp.json"), emp);
 	}
+	
+	
 }
